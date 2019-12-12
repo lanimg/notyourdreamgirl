@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville&display=swap');
+
+body {
+    font-family: 'Baskervville', serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1{
+    margin: 1%;
+    padding: 0%;
+}
+
+h3 {
+    margin: 0%;
+    padding-left: 24px;
+    padding-bottom: 48px;
+}
+
+img {
+    margin: 0%;
+    padding: 0%;
+    width: 70%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.hidden{
+    padding-top: 24px;
+    text-align: center;
+}
+
+
+.container{
+    display: flex;
+    border: 1px black;
+}
+
+
+
+.rightImg{
+    text-align: right;
+    padding-right: 128px;
+}
+
+.leftImg{
+    text-align: left;
+    padding-left: 128px;
+    padding-top: 16px;
+}
